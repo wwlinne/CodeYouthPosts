@@ -1,6 +1,5 @@
 # CodeYouthPosts
-Posts for Code Youth 
-It's a post about how to declare a variable in Java and JavaScript
+It's a post explaining how to declare variables in both Java and JavaScript
 ![1](https://github.com/wwlinne/CodeYouthPosts/assets/87803550/a7f20413-b1c9-4f3a-9b34-8b0e0acc1401)
 ![2](https://github.com/wwlinne/CodeYouthPosts/assets/87803550/78c76deb-c459-4e16-8e98-bb37bdcddfc5)
 ![3](https://github.com/wwlinne/CodeYouthPosts/assets/87803550/0194ae79-875b-40e8-a726-3955a9db5445)
